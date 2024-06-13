@@ -1,5 +1,5 @@
 {
-    "name": "nordsoftware/lumen-chained-exception-handler",
+    "name": "luiztucillo/lumen-chained-exception-handler",
     "description": "A chained exception handler for the Lumen framework",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.3 | ^8.0",
-        "illuminate/support": "^7.0 | ^8.0 | ^9.0"
+        "illuminate/support": "^7.0 | ^8.0 | ^9.0 | ¹0.0 | ^11.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9"
